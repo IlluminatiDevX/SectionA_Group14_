@@ -185,9 +185,3 @@ SectionA_Group14_/
 **Project:** Strategic Customer Retention Analysis  
 **Team ID:** Section A - Group 14  
 **Sector:** E-Commerce Retail  
-**Period:** 2024-2025
-
----
-
-**Version:** 1.0  
-**Status:** Final Submission
