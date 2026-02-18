@@ -6,7 +6,7 @@ Data-driven customer retention analysis for an online retail business (Dec 2009 
 
 | Metric | Value |
 |--------|-------|
-| Total Revenue | £589,689 |
+| Total Revenue | £327,457 |
 | Unique Customers | 2,494 |
 | Transactions | 17,494 |
 | Average Order Value | £58.97 |
